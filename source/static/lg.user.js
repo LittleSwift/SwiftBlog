@@ -5,6 +5,7 @@
 // @description  喵
 // @author       LittleSwift233
 // @match        https://www.luogu.com.cn/*
+// @match        https://www.luogu.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=www.luogu.com.cn
 // @grant        none
 // @run-at       document-start
