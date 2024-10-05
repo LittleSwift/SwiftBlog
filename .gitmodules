@@ -1,0 +1,3 @@
+[submodule "themes/ShinyStar"]
+	path = themes/ShinyStar
+	url = https://github.com/LittleSwift/ShinyStar
