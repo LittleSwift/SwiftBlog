@@ -30,7 +30,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Build ShinyStar
-        run: cd themes/ShinyStar && npm install && npm run build
+        run: ls themes
       - name: Build
         run: npm run build
       - name: Upload Pages artifact
